@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@verdaccio/streams": "^1.0.0",
-    "http-errors": "1.6.2",
+    "http-errors": "1.6.3",
     "memory-fs": "^0.4.1"
   },
   "devDependencies": {
