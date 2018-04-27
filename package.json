@@ -25,7 +25,7 @@
     "@commitlint/travis-cli": "6.0.2",
     "@verdaccio/types": "2.2.0",
     "babel-cli": "6.26.0",
-    "babel-core": "6.26.0",
+    "babel-core": "6.26.3",
     "babel-eslint": "8.2.3",
     "babel-jest": "22.1.0",
     "babel-plugin-flow-runtime": "0.15.0",
