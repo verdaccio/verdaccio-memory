@@ -38,7 +38,7 @@
     "eslint-plugin-flowtype": "2.46.2",
     "eslint-config-prettier": "2.9.0",
     "eslint-plugin-jest": "21.7.0",
-    "eslint-plugin-prettier": "2.5.0",
+    "eslint-plugin-prettier": "2.6.2",
     "flow-bin": "0.70.0",
     "flow-runtime": "0.16.0",
     "husky": "0.14.3",
