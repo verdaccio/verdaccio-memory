@@ -1,7 +1,7 @@
 import MemoryHandler from './memory-handler';
 import { Logger, Callback, Config, IPluginStorage } from '@verdaccio/types';
 
-export type ConfigMemory = Config & { limit?: number };
+export type ConfigMemory = { limit?: number };
 export type MemoryLocalStorage = { files: any, secret: string, list: any };
 
 const DEFAULT_LIMIT: number = 1000;
