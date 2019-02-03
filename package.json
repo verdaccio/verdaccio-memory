@@ -47,7 +47,7 @@
     "prettier": "1.14.3",
     "rmdir-sync": "1.0.1",
     "standard-version": "4.4.0",
-    "typescript": "3.2.4"
+    "typescript": "3.3.1"
   },
   "keywords": [
     "verdaccio",
