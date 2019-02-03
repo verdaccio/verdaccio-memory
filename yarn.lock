@@ -2694,10 +2694,10 @@ eslint-config-prettier@3.1.0:
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-plugin-jest@21.24.1:
-  version "21.24.1"
-  resolved "https://registry.verdaccio.org/eslint-plugin-jest/-/eslint-plugin-jest-21.24.1.tgz#aaf3c34e816f07add83d1e9c20696fdc31fac8dc"
-  integrity sha512-+lJ6nvwJtDRQtTumCs/9gMuteiopArpHJbRbWqPaScCzlhTu1pEilWTUlTgDEtY7GOx7FdOMD3BO/mdxFb4yDg==
+eslint-plugin-jest@21.27.2:
+  version "21.27.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-21.27.2.tgz#2a795b7c3b5e707df48a953d651042bd01d7b0a8"
+  integrity sha512-0E4OIgBJVlAmf1KfYFtZ3gYxgUzC5Eb3Jzmrc9ikI1OY+/cM8Kh72Ti7KfpeHNeD3HJNf9SmEfmvQLIz44Hrhw==
 
 eslint-plugin-prettier@3.0.0:
   version "3.0.0"
