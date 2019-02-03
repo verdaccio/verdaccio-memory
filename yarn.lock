@@ -872,27 +872,9 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@commitlint/cli@7.2.1":
-  version "7.2.1"
-  resolved "https://registry.verdaccio.org/@commitlint%2fcli/-/cli-7.2.1.tgz#dbb9eeb1f5015a129bb0801fbc1115eb1dcd513b"
-  integrity sha512-PUHWGoQOx8m6ZSpZPSHb+YISFAvW7jiWvCJOQiViKHZC8CLKu4bjyc/AwP8gBte0RsTGAu1ekiitp5Q0NcLGcA==
-  dependencies:
-    "@commitlint/format" "^7.2.1"
-    "@commitlint/lint" "^7.2.1"
-    "@commitlint/load" "^7.2.1"
-    "@commitlint/read" "^7.1.2"
-    babel-polyfill "6.26.0"
-    chalk "2.3.1"
-    get-stdin "5.0.1"
-    lodash.merge "4.6.1"
-    lodash.pick "4.4.0"
-    meow "5.0.0"
-    resolve-from "^4.0.0"
-    resolve-global "^0.1.0"
-
-"@commitlint/cli@^7.2.1":
+"@commitlint/cli@7.5.0", "@commitlint/cli@^7.5.0":
   version "7.5.0"
-  resolved "https://registry.verdaccio.org/@commitlint%2fcli/-/cli-7.5.0.tgz#6967633e45239daa09f1ff080cbd66e6e9ac11bc"
+  resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-7.5.0.tgz#6967633e45239daa09f1ff080cbd66e6e9ac11bc"
   integrity sha512-ts5b7eCF5B2qhUtgXuFFVkhlgnkSqKVyrq9Eu197bCyT1KyxCmAGTVCvPznaK8VhG3ts7rTt7byE+lyDXpuvSg==
   dependencies:
     "@commitlint/format" "^7.5.0"
@@ -907,10 +889,10 @@
     resolve-from "4.0.0"
     resolve-global "0.1.0"
 
-"@commitlint/config-conventional@7.1.2":
-  version "7.1.2"
-  resolved "https://registry.verdaccio.org/@commitlint%2fconfig-conventional/-/config-conventional-7.1.2.tgz#5b5e45924c9abd8f9a8d83eb1f66e24e5f66916f"
-  integrity sha512-DmA4ixkpv03qA1TVs1Bl25QsVym2bPL6pKapesALWIVggG3OpwqGZ55vN75Tx8xZoG7LFKrVyrt7kwhA7X8njQ==
+"@commitlint/config-conventional@7.5.0":
+  version "7.5.0"
+  resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-7.5.0.tgz#3afd4e3e34e5c2f6ec6af03e78ae924fed883ce7"
+  integrity sha512-odLgBfQ5xntFAmMfAmDY2C4EWhW+cSTbvbsRS7seb55DCa3IaxxSHHC9eXrR+hN/BdUT5vqAxdX1PkR996sq9Q==
 
 "@commitlint/ensure@^7.5.0":
   version "7.5.0"
@@ -926,7 +908,7 @@
   dependencies:
     babel-runtime "6.26.0"
 
-"@commitlint/format@^7.2.1", "@commitlint/format@^7.5.0":
+"@commitlint/format@^7.5.0":
   version "7.5.0"
   resolved "https://registry.verdaccio.org/@commitlint%2fformat/-/format-7.5.0.tgz#57a2b92dc58a3409b2be67c4c8c10bd1b28e9fe8"
   integrity sha512-DEeQXfTLUm9kARliCBfw3SlQRAYjK2aXeRAUMs1HPhLA2tjNFFGv6LOpFFNdiu/WV+o1ojcgIvBBjpHaVT+Tvw==
@@ -941,7 +923,7 @@
   dependencies:
     semver "5.6.0"
 
-"@commitlint/lint@^7.2.1", "@commitlint/lint@^7.5.0":
+"@commitlint/lint@^7.5.0":
   version "7.5.0"
   resolved "https://registry.verdaccio.org/@commitlint%2flint/-/lint-7.5.0.tgz#6f8560b491e10ec2a5a894d5d701cd6444547072"
   integrity sha512-sRd6V/SoJuF6Qwwd9cjz8pLd8lCh1jisnyRlubkq0spgZFR9IXE3Qj1hK29q4EPVvXHwli/z3fBZx2hrrZqqsQ==
@@ -952,7 +934,7 @@
     babel-runtime "^6.23.0"
     lodash "4.17.11"
 
-"@commitlint/load@^7.2.1", "@commitlint/load@^7.5.0":
+"@commitlint/load@^7.5.0":
   version "7.5.0"
   resolved "https://registry.verdaccio.org/@commitlint%2fload/-/load-7.5.0.tgz#2b225b97d631c2235d8b2084bc2fefb4d4d66719"
   integrity sha512-fhBER/rzPsteM6zq5qqMiOi+A2bHKCE/0PKmOzYgaqTKcG9c1SsOle9phPemW85to8Gxd2YgUOVLsZkCMltLtA==
@@ -978,7 +960,7 @@
     conventional-commits-parser "^2.1.0"
     lodash "^4.17.11"
 
-"@commitlint/read@^7.1.2", "@commitlint/read@^7.5.0":
+"@commitlint/read@^7.5.0":
   version "7.5.0"
   resolved "https://registry.verdaccio.org/@commitlint%2fread/-/read-7.5.0.tgz#35d563b0f3075da2ce6945978996b16fb4acb0f8"
   integrity sha512-uqGFCKZGnBUCTkxoCCJp4MfWUkegXkyT0T0RVM9diyG6uNWPWlMH1509sjLFlyeJKG+cSyYGG/d6T103ScMb4Q==
@@ -1021,12 +1003,12 @@
   dependencies:
     find-up "^2.1.0"
 
-"@commitlint/travis-cli@7.2.1":
-  version "7.2.1"
-  resolved "https://registry.verdaccio.org/@commitlint%2ftravis-cli/-/travis-cli-7.2.1.tgz#ce637a2c6adc1d9eb6f22369d58429fa332e7b1b"
-  integrity sha512-ePNYSDCALqMq9lu8QqR6Lcn46Llhj7S8PN3YqbSKw5vE3f8ZYAmi5wEfZrxfvPcek3qVFW9b4XsZ0QidRdUpQQ==
+"@commitlint/travis-cli@7.5.0":
+  version "7.5.0"
+  resolved "https://registry.yarnpkg.com/@commitlint/travis-cli/-/travis-cli-7.5.0.tgz#7b11baef826bc25f207fea73f537c4d00177d413"
+  integrity sha512-rn+wt5s0odO4djcoasjMR9bjBZXZngJduM9J0fV7MLP9yLfTs47E006Ks8Gp9J7I561ZNCAFes7KcuTixEenyA==
   dependencies:
-    "@commitlint/cli" "^7.2.1"
+    "@commitlint/cli" "^7.5.0"
     babel-runtime "6.26.0"
     execa "0.9.0"
 
@@ -4727,16 +4709,6 @@ lodash.debounce@^4.0.8:
   version "4.0.8"
   resolved "https://registry.verdaccio.org/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
   integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
-
-lodash.merge@4.6.1:
-  version "4.6.1"
-  resolved "https://registry.verdaccio.org/lodash.merge/-/lodash.merge-4.6.1.tgz#adc25d9cb99b9391c59624f379fbba60d7111d54"
-  integrity sha512-AOYza4+Hf5z1/0Hztxpm2/xiPZgi/cjMqdnKTUWTBSKchJlxXXuUSxCCl8rJlf4g6yww/j6mA8nC8Hw/EZWxKQ==
-
-lodash.pick@4.4.0:
-  version "4.4.0"
-  resolved "https://registry.verdaccio.org/lodash.pick/-/lodash.pick-4.4.0.tgz#52f05610fff9ded422611441ed1fc123a03001b3"
-  integrity sha1-UvBWEP/53tQiYRRB7R/BI6AwAbM=
 
 lodash.sortby@^4.7.0:
   version "4.7.0"
