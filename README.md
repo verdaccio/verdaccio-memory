@@ -18,10 +18,10 @@ A memory based **storage plugin**.
 
 ### Requirements
 
->`verdaccio@3.0.0`
+>`verdaccio@3.0.0` or `verdaccio@4.x`
 
 ```
-npm install -g verdaccio@latest
+npm install -g verdaccio
 ```
 
 Complete configuration example:
