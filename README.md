@@ -52,4 +52,4 @@ This plugin should not be use for production environments. It might be useful fo
 
 ## License
 
-MIT (http://www.opensource.org/licenses/mit-license.php)
+[MIT](http://www.opensource.org/licenses/mit-license.php)
