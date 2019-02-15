@@ -2,8 +2,8 @@ workflow "New workflow" {
   on = "push"
   resolves = [
     "Test Publish Verdaccio",
-    "Run Jest Test"
-    ]
+    "Run Jest Test",
+  ]
 }
 
 action "Run Jest Test" {
@@ -14,4 +14,5 @@ action "Run Jest Test" {
 action "Test Publish Verdaccio" {
   uses = "verdaccio/github-actions/publish@master"
   needs = ["Run Jest Test"]
+  args = "--force"
 }
