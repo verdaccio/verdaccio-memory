@@ -14,5 +14,5 @@ action "Run Jest Test" {
 action "Test Publish Verdaccio" {
   uses = "verdaccio/github-actions/publish@master"
   needs = ["Run Jest Test"]
-  args = "--force"
+  args = "-ddd"
 }
