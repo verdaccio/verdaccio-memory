@@ -1,4 +1,4 @@
-FROM node:10.15.1-alpine
+FROM node:10.15.3-alpine
 # Setup the working directory
 RUN mkdir /srv/github-actions-app
 WORKDIR /srv/github-actions-app
