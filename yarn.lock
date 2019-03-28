@@ -1145,10 +1145,10 @@
     lodash.unescape "4.0.1"
     semver "5.5.0"
 
-"@verdaccio/babel-preset@0.0.3":
-  version "0.0.3"
-  resolved "https://registry.verdaccio.org/@verdaccio%2fbabel-preset/-/babel-preset-0.0.3.tgz#8ae91e8812dc2988b9c776eb015cd600fc4f534d"
-  integrity sha512-kL6pubq/VEIJNWBNIu62vsGrgC0d7EHUVbtGMxbb5k9pER1iUdCqAnhUW54BVQL3ZDkI3rS7Yd5kabPseBDUKQ==
+"@verdaccio/babel-preset@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@verdaccio/babel-preset/-/babel-preset-0.1.0.tgz#cb193ffd0e72e4a09d33f350c2a327a55eb15f6a"
+  integrity sha512-DXaS7lgbCh8IHlPPElbEtfInh1IXHsuERK0J/1oPxG4ZdQgUFqmpD29Ydxw6X5Hk980abvZ1FKGNOXz+VzvHsQ==
   dependencies:
     "@babel/cli" "7.2.3"
     "@babel/core" "7.2.2"
