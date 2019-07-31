@@ -1,3 +1,9 @@
+## Deprecated repository
+
+**This repository has been moved to a monorepo you can find in [verdaccio/monorepo](https://github.com/verdaccio/monorepo). This package is located in [`plugins/memory` folder](https://github.com/verdaccio/monorepo/tree/master/plugins/memory)**
+
+---
+
 # verdaccio-memory
 
 [![CircleCI](https://circleci.com/gh/verdaccio/verdaccio-memory.svg?style=svg)](https://circleci.com/gh/ayusharma/verdaccio-memory)
